@@ -1,6 +1,6 @@
 ## Charting View
 
-*FREE, OPEN-SOURCE AND FEATURE-RICH CHARTING LIBRARY FOR TON BLOCKCHAIN*
+**FREE, OPEN-SOURCE AND FEATURE-RICH CHARTING LIBRARY FOR TON BLOCKCHAIN**
 
 ChartingView is a library of small and fast HTML5 charts that are specifically designed for TON Blockchain market data feed inspired by TradingView. This library provides developers with a powerful toolset that allows them to create advanced financial charts that can be embedded in web pages.
 
@@ -11,7 +11,7 @@ Another key feature of ChartingView is its flexibility and extensibility. It inc
 Finally, ChartingView is easy to integrate into existing web applications. It includes a flexible API (maintained by re:doubt) that allows developers to interact with the library programmatically and customize its behavior and appearance. It also supports integration with popular frameworks and libraries, such as React, Vue.js, and VanillaJS, making it easy to incorporate into modern web applications.
 
 
-#Features
+# Features
 
 - *Streaming updates for custom data.* Most recent data is displayed in real-time without having to reload the page.
 
