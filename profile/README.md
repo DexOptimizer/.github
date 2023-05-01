@@ -15,7 +15,7 @@ Finally, ChartingView is easy to integrate into existing web applications. It in
 
 - *Streaming updates for custom data.* Most recent data is displayed in real-time without having to reload the page.
 
-- *Open-source.* Maintained by https://www.redoubt.online/. Hosted on GitHub. Licensed under the Apache License, Version 2.0. Contributions welcome! 
+- *Open-source.* Maintained by (re:doubt)[https://www.redoubt.online/]. Hosted on GitHub. Licensed under the Apache License, Version 2.0. Contributions welcome! 
 
 - *Integrating any data is easy.* Built for developers, by developers. Feature-rich and easy to integrate Charts.
 
