@@ -23,5 +23,5 @@ Finally, ChartingView is easy to integrate into existing web applications. It in
 
 - *High-performance.* Our charting solutions were engineered from the start to work with huge data arrays. Charts stay responsive and nimble even with thousands of bars even with updates multiple times per second with new ticks.
 
-- *Flexible styling. * Change the standard look & feel to match your style with perfection. There are many premade examples that you can copy & paste.
+- *Flexible styling.* Change the standard look & feel to match your style with perfection. There are many premade examples that you can copy & paste.
 
